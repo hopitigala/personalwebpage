@@ -3,6 +3,6 @@ h1 {
     color: black;
 }
 video {
-    width: 100% !important;
-    height: auto !important;
+    max-width: 100% ;
+    height: auto ;
   }
