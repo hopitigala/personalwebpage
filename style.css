@@ -1,0 +1,11 @@
+body {
+    background: lightblue;
+    font: 18px Arial, sans-serif;
+}
+h1 {
+    color: orange;
+}
+video {
+    width: 100% !important;
+    height: auto !important;
+  }
