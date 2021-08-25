@@ -1,9 +1,8 @@
 body {
     background: lightblue;
-    font: 30px Arial, sans-serif;
 }
 h1 {
-    color: orange;
+    color: black;
 }
 video {
     width: 100% !important;
